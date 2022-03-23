@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/calc/static/css/main.cc7fa2cc.css",
-    "main.js": "/calc/static/js/main.be961d5f.js",
+    "main.js": "/calc/static/js/main.e6538004.js",
     "static/media/einstein.jpeg": "/calc/static/media/einstein.a2d137f494a172948a3e.jpeg",
     "index.html": "/calc/index.html",
     "main.cc7fa2cc.css.map": "/calc/static/css/main.cc7fa2cc.css.map",
-    "main.be961d5f.js.map": "/calc/static/js/main.be961d5f.js.map"
+    "main.e6538004.js.map": "/calc/static/js/main.e6538004.js.map"
   },
   "entrypoints": [
     "static/css/main.cc7fa2cc.css",
-    "static/js/main.be961d5f.js"
+    "static/js/main.e6538004.js"
   ]
 }
